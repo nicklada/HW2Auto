@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.MobileBankApiV2Test" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-05-30T13:41:53" hostname="MacBook-Air-lada.local" time="0.068">
+<testsuite name="ru.netology.rest.MobileBankApiV2Test" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-05-30T14:05:49" hostname="MacBook-Air-lada.local" time="0.064">
   <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiV2Test" time="0.068">
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiV2Test" time="0.064">
     <failure message="java.net.ConnectException: Connection refused (Connection refused)" type="java.net.ConnectException">java.net.ConnectException: Connection refused (Connection refused)
 	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
 	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
@@ -89,7 +89,7 @@
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:203)
 	at io.restassured.internal.RequestSpecificationImpl.get(RequestSpecificationImpl.groovy:171)
 	at io.restassured.internal.RequestSpecificationImpl.get(RequestSpecificationImpl.groovy)
-	at ru.netology.rest.MobileBankApiV2Test.shouldReturnDemoAccounts(MobileBankApiTestV2.java:17)
+	at ru.netology.rest.MobileBankApiV2Test.shouldReturnDemoAccounts(MobileBankApiV2Test.java:17)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

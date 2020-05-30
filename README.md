@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/uiwar208j7ncp7c8?svg=true)](https://ci.appveyor.com/project/nicklada/automatizationhw2)
+[![Build status](https://ci.appveyor.com/api/projects/status/9go562uo4y1j448r?svg=true)](https://ci.appveyor.com/project/nicklada/hw2auto)
